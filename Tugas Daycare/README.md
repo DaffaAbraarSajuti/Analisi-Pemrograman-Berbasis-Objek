@@ -4,13 +4,14 @@
 ## NPM  : 4522210040
 ---
 # SISTEM DAYCARE
-## Aktor 
+## 1. Aktor 
 - Orang Tua
 - Staf
 - Admin
 ---
-## Usecase Diagram
+## 2. Usecase Diagram
 ![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/Usecase%20Daycare.png?raw=true)
----
-## Class Diagram
+
+----
+## 3. Class Diagram
 ![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/ClassDiagram%20Daycare.png?raw=true)
