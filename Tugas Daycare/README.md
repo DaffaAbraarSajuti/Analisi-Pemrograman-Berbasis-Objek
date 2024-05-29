@@ -15,3 +15,7 @@
 ----
 ## 3. Class Diagram
 ![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/ClassDiagram%20Daycare.png?raw=true)
+
+---
+## 4. ERD 
+![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/ERD%20Daycare.png?raw=true)
