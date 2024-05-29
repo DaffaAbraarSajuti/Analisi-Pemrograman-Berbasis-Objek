@@ -3,11 +3,11 @@
 ## Nama : Daffa Abraar Sajuti
 ## NPM  : 4522210040
 ---
-## SISTEM DAYCARE
-1. Aktor 
+# SISTEM DAYCARE
+## Aktor 
 - Orang Tua
 - Staf
 - Admin
 ---
-2. Usecase Diagram
-
+## Usecase Diagram
+![alt text](?raw=true)
