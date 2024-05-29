@@ -1,3 +1,5 @@
-# Nama : Daffa Abraar Sajuti
-# NPM  : 4522210040
+# TUGAS ANALISIS DAN PERANCANGAN BERORRIENTASI OBJEK
+---
+## Nama : Daffa Abraar Sajuti
+## NPM  : 4522210040
 ---
