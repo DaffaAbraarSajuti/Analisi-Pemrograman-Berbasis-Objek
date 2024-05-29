@@ -28,22 +28,22 @@
 - Orang Tua
   - Orang tua bisa memiliki beberapa anak
   - Orang tua bisa melihat beberapa jadwal
-  - Oang tua dapat melihat kehadiran (anaknya)
+  - Orang tua dapat melihat kehadiran (anaknya)
   - Orang tua dapat melihat laporan (anaknya)
 - Staf
-  - staf dapat mencatat satu kehadiran anak
-  - staf dapat melihat beberapa jadwal
-  - staf membuat satu laporan anak
+  - Staf dapat mencatat satu kehadiran anak
+  - Staf dapat melihat beberapa jadwal
+  - Staf membuat satu laporan anak
 - Jadwal
   - Jadwal dapat dilihat oleh orang tua
   - Jadwal dapat dilihat oleh staf
-  - satu jadwal dimiliki oleh satu anak
+  - Satu jadwal dimiliki oleh satu anak
 - Kehadiran
   - Kehadiran dapat dilihat oleh orang tua
   - Kehadiran di catat oleh staf
-  - satu kehadiran dimiliki oleh satu anak
+  - Satu kehadiran dimiliki oleh satu anak
 - Laporan
-  - satu laporan dipunyai oleh satu anak
-  - laporan dapat dilihat oleh orang tua
-  - laporan dibuat oleh staf
+  - Satu laporan dipunyai oleh satu anak
+  - Laporan dapat dilihat oleh orang tua
+  - Laporan dibuat oleh staf
 ----
