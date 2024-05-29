@@ -4,8 +4,10 @@
 ## NPM  : 4522210040
 ---
 ## SISTEM DAYCARE
-#### Aktor 
+1. Aktor 
 - Orang Tua
 - Staf
 - Admin
 ---
+2. Usecase Diagram
+
