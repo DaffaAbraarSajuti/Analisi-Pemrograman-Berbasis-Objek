@@ -11,4 +11,6 @@
 ---
 ## Usecase Diagram
 ![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/Usecase%20Daycare.png?raw=true)
-
+---
+## Class Diagram
+![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/ClassDiagram%20Daycare.png?raw=true)
