@@ -10,4 +10,5 @@
 - Admin
 ---
 ## Usecase Diagram
-![alt text](?raw=true)
+![alt text](https://github.com/DaffaAbraarSajuti/Analisis-dan-Perancangan-Berorientasi-Objek/blob/main/Tugas%20Daycare/Usecase%20Daycare.png?raw=true)
+
